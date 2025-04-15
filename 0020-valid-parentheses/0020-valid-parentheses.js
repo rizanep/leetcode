@@ -3,23 +3,23 @@
  * @return {boolean}
  */
 var isValid = function(s) {
-      const stack = [];
+      const x = [];
     
     for (let i = 0 ; i < s.length ; i++) {
         let c = s.charAt(i);
         switch(c) {
-            case '(': stack.push(')');
+            case '(': x.push(')');
                 break;
-            case '[': stack.push(']');
+            case '[': x.push(']');
                 break;
-            case '{': stack.push('}');
+            case '{': x.push('}');
                 break;
             default:
-                if (c !== stack.pop()) {
+                if (c !== x.pop()) {
                     return false;
                 }else{true}
         }
     }
     
-    return stack.length === 0;
+    return x.length === 0;
 };
