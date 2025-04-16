@@ -13,7 +13,7 @@ var countSymmetricIntegers = function(low, high) {
         if(s.length%2=== 1) continue;
         let sum1=0
             for(j=0; j<m;j++){
-                sum1+= s.charCodeAt(j)- s.charCodeAt(j+m)
+                sum1+= s.charAt(j)- s.charAt(j+m)
             }
            if(sum1===0){
                 result++
