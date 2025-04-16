@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/rizanep/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rizanep/leetcode/tree/master/0013-roman-to-integer) |
+| [2998-count-symmetric-integers](https://github.com/rizanep/leetcode/tree/master/2998-count-symmetric-integers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rizanep/leetcode/tree/master/0020-valid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/rizanep/leetcode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
