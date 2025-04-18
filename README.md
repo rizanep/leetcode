@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rizanep/leetcode/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/rizanep/leetcode/tree/master/0412-fizz-buzz) |
 | [2998-count-symmetric-integers](https://github.com/rizanep/leetcode/tree/master/2998-count-symmetric-integers) |
+| [3830-find-closest-person](https://github.com/rizanep/leetcode/tree/master/3830-find-closest-person) |
 ## Prefix Sum
 |  |
 | ------- |
