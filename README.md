@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rizanep/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/rizanep/leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/rizanep/leetcode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/rizanep/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rizanep/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/rizanep/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/rizanep/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -87,4 +88,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rizanep/leetcode/tree/master/0088-merge-sorted-array) |
+| [0414-third-maximum-number](https://github.com/rizanep/leetcode/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
