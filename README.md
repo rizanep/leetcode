@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/rizanep/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rizanep/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1168-duplicate-zeros](https://github.com/rizanep/leetcode/tree/master/1168-duplicate-zeros) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/rizanep/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/rizanep/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/rizanep/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 ## Hash Table
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rizanep/leetcode/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/rizanep/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/rizanep/leetcode/tree/master/0412-fizz-buzz) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/rizanep/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2998-count-symmetric-integers](https://github.com/rizanep/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3830-find-closest-person](https://github.com/rizanep/leetcode/tree/master/3830-find-closest-person) |
 ## Prefix Sum
