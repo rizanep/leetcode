@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rizanep/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/rizanep/leetcode/tree/master/0013-roman-to-integer) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rizanep/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1904-second-largest-digit-in-a-string](https://github.com/rizanep/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/rizanep/leetcode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/rizanep/leetcode/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/rizanep/leetcode/tree/master/1894-merge-strings-alternately) |
+| [1904-second-largest-digit-in-a-string](https://github.com/rizanep/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/rizanep/leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3447-clear-digits](https://github.com/rizanep/leetcode/tree/master/3447-clear-digits) |
 ## Tree
