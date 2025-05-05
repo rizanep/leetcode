@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rizanep/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rizanep/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/rizanep/leetcode/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/rizanep/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rizanep/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/rizanep/leetcode/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rizanep/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -109,5 +110,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/rizanep/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rizanep/leetcode/tree/master/0326-power-of-three) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/rizanep/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
