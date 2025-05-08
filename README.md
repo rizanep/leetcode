@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/rizanep/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rizanep/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/rizanep/leetcode/tree/master/0412-fizz-buzz) |
+| [0728-self-dividing-numbers](https://github.com/rizanep/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rizanep/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2998-count-symmetric-integers](https://github.com/rizanep/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3830-find-closest-person](https://github.com/rizanep/leetcode/tree/master/3830-find-closest-person) |
