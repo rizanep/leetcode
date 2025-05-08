@@ -4,7 +4,7 @@
  * @return {number[]}
  */
 var selfDividingNumbers = function(left, right) {
-    const set=new Set()
+    const set=[]
     
     for(i=left;i<=right;i++){
         let a=i.toString()
@@ -14,8 +14,8 @@ var selfDividingNumbers = function(left, right) {
                  k+=1
             }else{break}
             if(k==a.length){
-                set.add(i)
+                set.push(i)
             }
         }
-    }return Array.from(set)
+    }return (set)
 };
