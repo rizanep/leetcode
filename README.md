@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/rizanep/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rizanep/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rizanep/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/rizanep/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/rizanep/leetcode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/rizanep/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/rizanep/leetcode/tree/master/0520-detect-capital) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rizanep/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/rizanep/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rizanep/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/rizanep/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rizanep/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0874-backspace-string-compare](https://github.com/rizanep/leetcode/tree/master/0874-backspace-string-compare) |
 | [0941-sort-array-by-parity](https://github.com/rizanep/leetcode/tree/master/0941-sort-array-by-parity) |
