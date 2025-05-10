@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rizanep/leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/rizanep/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/rizanep/leetcode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/rizanep/leetcode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/rizanep/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rizanep/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/rizanep/leetcode/tree/master/0414-third-maximum-number) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/rizanep/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/rizanep/leetcode/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
