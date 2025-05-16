@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/rizanep/leetcode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/rizanep/leetcode/tree/master/0874-backspace-string-compare) |
 | [1524-string-matching-in-an-array](https://github.com/rizanep/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1660-thousand-separator](https://github.com/rizanep/leetcode/tree/master/1660-thousand-separator) |
 | [1894-merge-strings-alternately](https://github.com/rizanep/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/rizanep/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/rizanep/leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
