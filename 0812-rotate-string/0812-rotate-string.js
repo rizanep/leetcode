@@ -4,7 +4,16 @@
  * @return {boolean}
  */
 var rotateString = function(s, goal) {
-    if(s.length !== goal.length) return false;
-    let str = s.concat(s);
-    return str.includes(goal);
+    let res = false
+    const a= Array.from(s)
+    for(i=0;i<goal.length;i++){
+        a.push(a[0])
+        a.shift()
+       let k= a.join("")
+        if(goal==k){
+            res=true
+        }
+    }return res
+
+
 };
