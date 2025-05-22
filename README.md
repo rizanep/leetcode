@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rizanep/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/rizanep/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/rizanep/leetcode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/rizanep/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/rizanep/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rizanep/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/rizanep/leetcode/tree/master/0414-third-maximum-number) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rizanep/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/rizanep/leetcode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/rizanep/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/rizanep/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/rizanep/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rizanep/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rizanep/leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/rizanep/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/rizanep/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/rizanep/leetcode/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/rizanep/leetcode/tree/master/0941-sort-array-by-parity) |
