@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/rizanep/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/rizanep/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/rizanep/leetcode/tree/master/1651-shuffle-string) |
+| [2048-build-array-from-permutation](https://github.com/rizanep/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/rizanep/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 ## Hash Table
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/rizanep/leetcode/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/rizanep/leetcode/tree/master/0874-backspace-string-compare) |
+| [2048-build-array-from-permutation](https://github.com/rizanep/leetcode/tree/master/2048-build-array-from-permutation) |
 | [3447-clear-digits](https://github.com/rizanep/leetcode/tree/master/3447-clear-digits) |
 ## String Matching
 |  |
