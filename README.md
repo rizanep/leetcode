@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/rizanep/leetcode/tree/master/1651-shuffle-string) |
 | [2048-build-array-from-permutation](https://github.com/rizanep/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/rizanep/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [3194-find-words-containing-character](https://github.com/rizanep/leetcode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/rizanep/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/rizanep/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/rizanep/leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [3194-find-words-containing-character](https://github.com/rizanep/leetcode/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/rizanep/leetcode/tree/master/3447-clear-digits) |
 ## Tree
 |  |
