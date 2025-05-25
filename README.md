@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/rizanep/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/rizanep/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/rizanep/leetcode/tree/master/1651-shuffle-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/rizanep/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2048-build-array-from-permutation](https://github.com/rizanep/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/rizanep/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3194-find-words-containing-character](https://github.com/rizanep/leetcode/tree/master/3194-find-words-containing-character) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/rizanep/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/rizanep/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rizanep/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/rizanep/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/rizanep/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 ## Math
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/rizanep/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1651-shuffle-string](https://github.com/rizanep/leetcode/tree/master/1651-shuffle-string) |
 | [1660-thousand-separator](https://github.com/rizanep/leetcode/tree/master/1660-thousand-separator) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/rizanep/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/rizanep/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/rizanep/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/rizanep/leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/rizanep/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/rizanep/leetcode/tree/master/0231-power-of-two) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/rizanep/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rizanep/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rizanep/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/rizanep/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Queue
 |  |
 | ------- |
