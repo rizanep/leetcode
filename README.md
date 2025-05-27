@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/rizanep/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/rizanep/leetcode/tree/master/0520-detect-capital) |
 | [0812-rotate-string](https://github.com/rizanep/leetcode/tree/master/0812-rotate-string) |
+| [0851-goat-latin](https://github.com/rizanep/leetcode/tree/master/0851-goat-latin) |
 | [0874-backspace-string-compare](https://github.com/rizanep/leetcode/tree/master/0874-backspace-string-compare) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/rizanep/leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1524-string-matching-in-an-array](https://github.com/rizanep/leetcode/tree/master/1524-string-matching-in-an-array) |
