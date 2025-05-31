@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/rizanep/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/rizanep/leetcode/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/rizanep/leetcode/tree/master/0728-self-dividing-numbers) |
+| [1260-day-of-the-year](https://github.com/rizanep/leetcode/tree/master/1260-day-of-the-year) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rizanep/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2998-count-symmetric-integers](https://github.com/rizanep/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3830-find-closest-person](https://github.com/rizanep/leetcode/tree/master/3830-find-closest-person) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/rizanep/leetcode/tree/master/0812-rotate-string) |
 | [0851-goat-latin](https://github.com/rizanep/leetcode/tree/master/0851-goat-latin) |
 | [0874-backspace-string-compare](https://github.com/rizanep/leetcode/tree/master/0874-backspace-string-compare) |
+| [1260-day-of-the-year](https://github.com/rizanep/leetcode/tree/master/1260-day-of-the-year) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/rizanep/leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1524-string-matching-in-an-array](https://github.com/rizanep/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1651-shuffle-string](https://github.com/rizanep/leetcode/tree/master/1651-shuffle-string) |
