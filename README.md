@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/rizanep/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/rizanep/leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/rizanep/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/rizanep/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/rizanep/leetcode/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/rizanep/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1260-day-of-the-year](https://github.com/rizanep/leetcode/tree/master/1260-day-of-the-year) |
@@ -171,11 +172,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/rizanep/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rizanep/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/rizanep/leetcode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rizanep/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/rizanep/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/rizanep/leetcode/tree/master/0342-power-of-four) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rizanep/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Binary Search
 |  |
