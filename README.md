@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rizanep/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/rizanep/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rizanep/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/rizanep/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0932-monotonic-array](https://github.com/rizanep/leetcode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/rizanep/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/rizanep/leetcode/tree/master/1019-squares-of-a-sorted-array) |
