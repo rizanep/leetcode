@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/rizanep/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/rizanep/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/rizanep/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/rizanep/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2128-reverse-prefix-of-word](https://github.com/rizanep/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/rizanep/leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2825-minimize-string-length](https://github.com/rizanep/leetcode/tree/master/2825-minimize-string-length) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/rizanep/leetcode/tree/master/0874-backspace-string-compare) |
 | [2048-build-array-from-permutation](https://github.com/rizanep/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/rizanep/leetcode/tree/master/2058-concatenation-of-array) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/rizanep/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3447-clear-digits](https://github.com/rizanep/leetcode/tree/master/3447-clear-digits) |
 ## String Matching
 |  |
