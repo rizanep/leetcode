@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rizanep/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rizanep/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/rizanep/leetcode/tree/master/1448-maximum-69-number) |
+| [2491-smallest-even-multiple](https://github.com/rizanep/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2998-count-symmetric-integers](https://github.com/rizanep/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3830-find-closest-person](https://github.com/rizanep/leetcode/tree/master/3830-find-closest-person) |
 ## Prefix Sum
@@ -214,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/rizanep/leetcode/tree/master/1448-maximum-69-number) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/rizanep/leetcode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
