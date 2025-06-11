@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2825-minimize-string-length](https://github.com/rizanep/leetcode/tree/master/2825-minimize-string-length) |
 | [2881-split-strings-by-separator](https://github.com/rizanep/leetcode/tree/master/2881-split-strings-by-separator) |
 | [3194-find-words-containing-character](https://github.com/rizanep/leetcode/tree/master/3194-find-words-containing-character) |
+| [3379-score-of-a-string](https://github.com/rizanep/leetcode/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/rizanep/leetcode/tree/master/3447-clear-digits) |
 | [3811-reverse-degree-of-a-string](https://github.com/rizanep/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Tree
