@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rizanep/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/rizanep/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rizanep/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/rizanep/leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/rizanep/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/rizanep/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rizanep/leetcode/tree/master/0258-add-digits) |
@@ -241,4 +242,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/rizanep/leetcode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/rizanep/leetcode/tree/master/2491-smallest-even-multiple) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rizanep/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rizanep/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
