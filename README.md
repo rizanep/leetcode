@@ -267,4 +267,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/rizanep/leetcode/tree/master/0182-duplicate-emails) |
+| [0627-swap-salary](https://github.com/rizanep/leetcode/tree/master/0627-swap-salary) |
 <!---LeetCode Topics End-->
