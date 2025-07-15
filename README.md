@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-day-of-the-year](https://github.com/rizanep/leetcode/tree/master/1260-day-of-the-year) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/rizanep/leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1524-string-matching-in-an-array](https://github.com/rizanep/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1542-consecutive-characters](https://github.com/rizanep/leetcode/tree/master/1542-consecutive-characters) |
 | [1651-shuffle-string](https://github.com/rizanep/leetcode/tree/master/1651-shuffle-string) |
 | [1660-thousand-separator](https://github.com/rizanep/leetcode/tree/master/1660-thousand-separator) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rizanep/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
