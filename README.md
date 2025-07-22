@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/rizanep/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rizanep/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/rizanep/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/rizanep/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0932-monotonic-array](https://github.com/rizanep/leetcode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/rizanep/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/rizanep/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/rizanep/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rizanep/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rizanep/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/rizanep/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1319-unique-number-of-occurrences](https://github.com/rizanep/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/rizanep/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rizanep/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/rizanep/leetcode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/rizanep/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/rizanep/leetcode/tree/master/0520-detect-capital) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/rizanep/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0742-to-lower-case](https://github.com/rizanep/leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/rizanep/leetcode/tree/master/0812-rotate-string) |
 | [0851-goat-latin](https://github.com/rizanep/leetcode/tree/master/0851-goat-latin) |
