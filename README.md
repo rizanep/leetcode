@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/rizanep/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/rizanep/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/rizanep/leetcode/tree/master/1651-shuffle-string) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/rizanep/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rizanep/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2048-build-array-from-permutation](https://github.com/rizanep/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/rizanep/leetcode/tree/master/2058-concatenation-of-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1542-consecutive-characters](https://github.com/rizanep/leetcode/tree/master/1542-consecutive-characters) |
 | [1651-shuffle-string](https://github.com/rizanep/leetcode/tree/master/1651-shuffle-string) |
 | [1660-thousand-separator](https://github.com/rizanep/leetcode/tree/master/1660-thousand-separator) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/rizanep/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rizanep/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/rizanep/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/rizanep/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
