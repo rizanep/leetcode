@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/rizanep/leetcode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/rizanep/leetcode/tree/master/0390-elimination-game) |
 | [0412-fizz-buzz](https://github.com/rizanep/leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/rizanep/leetcode/tree/master/0415-add-strings) |
 | [0728-self-dividing-numbers](https://github.com/rizanep/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1260-day-of-the-year](https://github.com/rizanep/leetcode/tree/master/1260-day-of-the-year) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rizanep/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/rizanep/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rizanep/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/rizanep/leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/rizanep/leetcode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/rizanep/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/rizanep/leetcode/tree/master/0520-detect-capital) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rizanep/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/rizanep/leetcode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/rizanep/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/rizanep/leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/rizanep/leetcode/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/rizanep/leetcode/tree/master/0874-backspace-string-compare) |
 | [2048-build-array-from-permutation](https://github.com/rizanep/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/rizanep/leetcode/tree/master/2058-concatenation-of-array) |
