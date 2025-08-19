@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/rizanep/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/rizanep/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2998-count-symmetric-integers](https://github.com/rizanep/leetcode/tree/master/2998-count-symmetric-integers) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/rizanep/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3830-find-closest-person](https://github.com/rizanep/leetcode/tree/master/3830-find-closest-person) |
 ## Prefix Sum
 |  |
