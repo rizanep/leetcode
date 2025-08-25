@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/rizanep/leetcode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/rizanep/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/rizanep/leetcode/tree/master/0520-detect-capital) |
+| [0541-reverse-string-ii](https://github.com/rizanep/leetcode/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rizanep/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0742-to-lower-case](https://github.com/rizanep/leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/rizanep/leetcode/tree/master/0812-rotate-string) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/rizanep/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rizanep/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rizanep/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0541-reverse-string-ii](https://github.com/rizanep/leetcode/tree/master/0541-reverse-string-ii) |
 | [0874-backspace-string-compare](https://github.com/rizanep/leetcode/tree/master/0874-backspace-string-compare) |
 | [0941-sort-array-by-parity](https://github.com/rizanep/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/rizanep/leetcode/tree/master/1019-squares-of-a-sorted-array) |
